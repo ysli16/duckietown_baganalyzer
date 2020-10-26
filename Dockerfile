@@ -1,7 +1,7 @@
 # parameters
-ARG REPO_NAME="<REPO_NAME_HERE>"
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
-ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
+ARG REPO_NAME="<duckietown_baganalyzer>"
+ARG DESCRIPTION="<Print the min, max, average, and median values of the time difference between two consecutive messages of each topic in the bag.>"
+ARG MAINTAINER="<Yueshan Li> (<yuesli@student.ethz.ch>)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
