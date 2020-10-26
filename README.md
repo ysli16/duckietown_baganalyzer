@@ -1,21 +1,21 @@
 # Bag Analyzer
 
 ## Preparation
-copy the bags of interest to folder '/data'
+1. Copy the bags of interest to folder '/data'
 
-Go to '/pakages' folder, edit the python script 'analyzer.py', replace `<Bag_Name>` in this line
+2. Go to '/pakages' folder, edit the python script 'analyzer.py', replace `<Bag_Name>` in this line
 
 `bag = rosbag.Bag('/data/<Bag_Name>')`
 
 with actual bag name.
 
 ## Exection
-###Build image
+### Build image
 Run command
 
 `dts devel build -f `
 
-###Run container with mounted volume
+### Run container with mounted volume
 
 Run command
 
