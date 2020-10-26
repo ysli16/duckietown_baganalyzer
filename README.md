@@ -11,7 +11,7 @@
 
 with actual bag name.
 
-## Exection
+## Execution
 ### Build image
 Run command
 
