@@ -1,6 +1,8 @@
 # Bag Analyzer
 
 ## Preparation
+0. Clone this repository
+
 1. Copy the bags of interest to folder '/data'
 
 2. Go to '/pakages' folder, edit the python script 'analyzer.py', replace `<Bag_Name>` in this line
